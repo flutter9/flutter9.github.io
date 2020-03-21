@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["grinder|lib/src/grinder_context.dart","grinder|lib/src/grinder_exception.dart","grinder|lib/src/singleton.dart","grinder|lib/src/task_invocation.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

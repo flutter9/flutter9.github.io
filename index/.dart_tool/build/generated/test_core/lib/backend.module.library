@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["test_api|lib/backend.dart","test_core|lib/src/runner/parse_metadata.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

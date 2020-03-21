@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["stack_trace|lib/stack_trace.dart","webdriver|lib/src/common/command_event.dart","webdriver|lib/src/common/request.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["resource|lib/src/resolve.dart","resource|lib/src/resource_loader.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert"],"hasMain":false}

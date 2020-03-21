@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["mdc_web|lib/src/base.dart","mdc_web|lib/src/mdc_web/tab_scroller.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

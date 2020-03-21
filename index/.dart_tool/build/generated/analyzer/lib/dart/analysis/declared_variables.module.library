@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/constant/value.dart","analyzer|lib/dart/element/type_provider.dart","analyzer|lib/src/dart/constant/value.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

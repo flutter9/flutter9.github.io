@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["web_socket_channel|lib/src/exception.dart","web_socket_channel|lib/src/copy/bytes_builder.dart","web_socket_channel|lib/src/copy/io_sink.dart","web_socket_channel|lib/src/copy/web_socket.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","math","typed_data"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["pedantic|lib/pedantic.dart","watcher|lib/src/file_watcher.dart","watcher|lib/src/resubscribable.dart","watcher|lib/src/stat.dart","watcher|lib/src/watch_event.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/error/error.dart","analyzer|lib/src/generated/engine.dart","analyzer|lib/src/generated/utilities_general.dart","analyzer|lib/src/task/options.dart","yaml|lib/yaml.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

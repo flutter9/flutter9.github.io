@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["cli_util|lib/cli_logging.dart","grinder|lib/src/utils.dart","grinder|lib/grinder.dart","grinder|lib/src/cli_util.dart","grinder|lib/src/singleton.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

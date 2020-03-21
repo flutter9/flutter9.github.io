@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["mdc_web|lib/src/base.dart","mdc_web|lib/src/selection_control.dart","mdc_web|lib/src/mdc_web/checkbox.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

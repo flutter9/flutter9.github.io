@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["_fe_analyzer_shared|lib/src/messages/codes.dart","analyzer|lib/dart/ast/token.dart","analyzer|lib/error/error.dart","analyzer|lib/error/listener.dart","analyzer|lib/src/dart/error/syntactic_errors.dart","analyzer|lib/src/error/codes.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

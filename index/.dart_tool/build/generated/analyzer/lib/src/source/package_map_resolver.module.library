@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/file_system/file_system.dart","analyzer|lib/src/generated/source.dart","analyzer|lib/src/util/asserts.dart","path|lib/path.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["core"],"hasMain":false}

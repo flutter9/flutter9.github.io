@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":[],"parts":[],"conditionalDeps":[{"$default":"glob|lib/src/io_export.dart","dart.library.html":"glob|lib/src/io_export.dart","dart.library.js":"node_io|lib/node_io.dart"}],"sdkDeps":[],"hasMain":false}

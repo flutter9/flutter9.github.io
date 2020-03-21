@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["grinder|lib/grinder.dart","path|lib/path.dart","samples_index|lib/samples_index.dart","samples_index|lib/src/html/detail.dart","samples_index|lib/src/html/index.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":true}

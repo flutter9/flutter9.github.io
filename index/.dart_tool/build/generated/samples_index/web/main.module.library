@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["mdc_web|lib/mdc_web.dart","samples_index|lib/browser.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"],"hasMain":true}

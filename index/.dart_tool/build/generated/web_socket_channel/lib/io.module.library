@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["async|lib/async.dart","stream_channel|lib/stream_channel.dart","web_socket_channel|lib/src/channel.dart","web_socket_channel|lib/src/exception.dart","web_socket_channel|lib/src/sink_completer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

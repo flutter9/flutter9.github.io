@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["webdriver|lib/async_core.dart","webdriver|lib/src/common/by.dart","webdriver|lib/src/sync/web_driver.dart","webdriver|lib/src/sync/web_element.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

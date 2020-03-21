@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["checked_yaml|lib/checked_yaml.dart","resource|lib/resource.dart","samples_index|lib/src/data.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

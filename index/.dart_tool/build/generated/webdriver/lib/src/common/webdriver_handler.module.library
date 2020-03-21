@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["webdriver|lib/src/common/cookie.dart","webdriver|lib/src/common/log.dart","webdriver|lib/src/common/mouse.dart","webdriver|lib/src/common/session.dart","webdriver|lib/src/common/by.dart","webdriver|lib/src/common/request.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

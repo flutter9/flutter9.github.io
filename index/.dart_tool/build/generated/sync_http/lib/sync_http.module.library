@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":[],"parts":["sync_http|lib/src/sync_http.dart","sync_http|lib/src/line_decoder.dart"],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

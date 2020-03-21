@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","path|lib/path.dart","pedantic|lib/pedantic.dart","glob|lib/src/ast.dart","glob|lib/src/io.dart","glob|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/analysis/features.dart","analyzer|lib/src/dart/analysis/experiments_impl.dart","analyzer|lib/src/generated/utilities_general.dart","meta|lib/meta.dart","pub_semver|lib/src/version.dart"],"parts":["analyzer|lib/src/dart/analysis/experiments.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

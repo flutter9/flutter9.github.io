@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["async|lib/async.dart","path|lib/path.dart","pool|lib/pool.dart","test_core|lib/src/util/io.dart","test_core|lib/src/runner/suite.dart","test_core|lib/src/runner/configuration.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io","isolate"],"hasMain":false}

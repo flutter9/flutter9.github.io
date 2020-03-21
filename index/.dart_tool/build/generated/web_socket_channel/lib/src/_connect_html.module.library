@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["web_socket_channel|lib/html.dart","web_socket_channel|lib/web_socket_channel.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

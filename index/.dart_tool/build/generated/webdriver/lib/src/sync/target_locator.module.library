@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["webdriver|lib/src/common/by.dart","webdriver|lib/src/common/request_client.dart","webdriver|lib/src/common/webdriver_handler.dart","webdriver|lib/src/sync/alert.dart","webdriver|lib/src/sync/web_driver.dart","webdriver|lib/src/sync/web_element.dart","webdriver|lib/src/sync/window.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

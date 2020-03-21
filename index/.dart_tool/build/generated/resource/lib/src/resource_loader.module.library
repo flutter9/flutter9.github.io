@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["resource|lib/src/package_loader.dart"],"parts":[],"conditionalDeps":[{"$default":"resource|lib/src/io_none.dart","dart.library.html":"resource|lib/src/io_html.dart","dart.library.io":"resource|lib/src/io_io.dart"}],"sdkDeps":["async","convert"],"hasMain":false}

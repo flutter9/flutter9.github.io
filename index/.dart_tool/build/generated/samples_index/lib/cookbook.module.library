@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["samples_index|lib/src/data.dart","webdriver|lib/io.dart","html|lib/parser.dart","path|lib/path.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

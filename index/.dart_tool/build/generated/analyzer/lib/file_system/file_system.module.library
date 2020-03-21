@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/src/generated/source.dart","path|lib/path.dart","watcher|lib/watcher.dart","analyzer|lib/src/file_system/file_system.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

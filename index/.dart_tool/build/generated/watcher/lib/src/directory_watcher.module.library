@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["watcher|lib/watcher.dart","watcher|lib/src/directory_watcher/linux.dart","watcher|lib/src/directory_watcher/mac_os.dart","watcher|lib/src/directory_watcher/windows.dart","watcher|lib/src/directory_watcher/polling.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

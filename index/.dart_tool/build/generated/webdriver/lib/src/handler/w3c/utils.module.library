@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["webdriver|lib/src/common/web_element.dart","webdriver|lib/src/common/exception.dart","webdriver|lib/src/common/request.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

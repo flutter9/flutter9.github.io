@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["webdriver|lib/src/common/request.dart","webdriver|lib/src/common/session.dart","webdriver|lib/src/common/spec.dart","webdriver|lib/src/common/webdriver_handler.dart","webdriver|lib/src/common/capabilities.dart","webdriver|lib/src/handler/w3c/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

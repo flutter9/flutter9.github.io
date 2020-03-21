@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["mdc_web|lib/src/base.dart","mdc_web|lib/src/menu_surface.dart","mdc_web|lib/src/mdc_web/menu.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

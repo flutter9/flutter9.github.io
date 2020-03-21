@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","analyzer|lib/dart/ast/token.dart","analyzer|lib/dart/element/element.dart","analyzer|lib/dart/element/type.dart","analyzer|lib/src/dart/analysis/dependency/node.dart","analyzer|lib/src/dart/ast/token.dart","meta|lib/meta.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

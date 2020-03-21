@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/error/error.dart","_fe_analyzer_shared|lib/src/scanner/errors.dart"],"parts":["analyzer|lib/src/dart/error/syntactic_errors.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

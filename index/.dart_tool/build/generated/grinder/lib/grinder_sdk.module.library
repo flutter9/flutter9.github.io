@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["path|lib/path.dart","grinder|lib/grinder.dart","grinder|lib/src/run.dart","grinder|lib/src/run_utils.dart","grinder|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

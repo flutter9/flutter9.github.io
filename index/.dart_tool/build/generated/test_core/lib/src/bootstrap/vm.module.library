@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["stream_channel|lib/isolate_channel.dart","test_core|lib/src/runner/plugin/remote_platform_helpers.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["isolate"],"hasMain":false}

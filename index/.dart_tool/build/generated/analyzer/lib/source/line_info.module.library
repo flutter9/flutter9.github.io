@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/src/generated/java_engine.dart","analyzer|lib/src/generated/source.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

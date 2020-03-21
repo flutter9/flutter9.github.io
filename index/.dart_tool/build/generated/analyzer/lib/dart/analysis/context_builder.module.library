@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/analysis/analysis_context.dart","analyzer|lib/dart/analysis/context_root.dart","analyzer|lib/dart/analysis/declared_variables.dart","analyzer|lib/file_system/file_system.dart","analyzer|lib/src/dart/analysis/context_builder.dart","meta|lib/meta.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

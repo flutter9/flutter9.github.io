@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/src/dart/analysis/file_state.dart","analyzer|lib/src/summary/api_signature.dart","analyzer|lib/src/summary/link.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

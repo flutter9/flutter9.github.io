@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["resource|lib/src/resource.dart","resource|lib/src/resource_loader.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

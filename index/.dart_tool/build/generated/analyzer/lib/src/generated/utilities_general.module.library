@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["yaml|lib/yaml.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","collection","developer"],"hasMain":false}

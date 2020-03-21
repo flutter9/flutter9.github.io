@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["cli_util|lib/cli_logging.dart","grinder|lib/grinder.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

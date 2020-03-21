@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["test_api|lib/src/backend/runtime.dart","test|lib/src/runner/browser/browser.dart","test|lib/src/runner/browser/default_settings.dart","test|lib/src/runner/executable_settings.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

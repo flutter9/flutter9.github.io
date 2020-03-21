@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["_fe_analyzer_shared|lib/src/scanner/token.dart","analyzer|lib/dart/analysis/features.dart","analyzer|lib/dart/ast/ast.dart","analyzer|lib/src/generated/utilities_dart.dart","meta|lib/meta.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

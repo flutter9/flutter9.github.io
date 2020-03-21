@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/dart/ast/ast.dart","analyzer|lib/error/listener.dart","analyzer|lib/src/dart/error/lint_codes.dart","analyzer|lib/src/generated/engine.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection"],"hasMain":false}

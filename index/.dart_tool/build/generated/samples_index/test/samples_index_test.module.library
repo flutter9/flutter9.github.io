@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["samples_index|lib/samples_index.dart","samples_index|lib/browser.dart","test|lib/test.dart","checked_yaml|lib/checked_yaml.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":true}

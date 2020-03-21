@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/error/error.dart","analyzer|lib/error/listener.dart","analyzer|lib/file_system/file_system.dart","analyzer|lib/src/generated/source.dart","analyzer|lib/src/pubspec/pubspec_warning_code.dart","path|lib/path.dart","source_span|lib/src/span.dart","yaml|lib/yaml.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

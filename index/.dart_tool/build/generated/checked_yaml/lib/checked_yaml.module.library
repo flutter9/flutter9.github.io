@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["json_annotation|lib/json_annotation.dart","yaml|lib/yaml.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

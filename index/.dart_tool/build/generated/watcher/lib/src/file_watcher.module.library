@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["watcher|lib/watcher.dart","watcher|lib/src/file_watcher/native.dart","watcher|lib/src/file_watcher/polling.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}
