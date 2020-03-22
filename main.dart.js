@@ -2444,12 +2444,12 @@ hm:function(){var t,s,r,q="platform",p=$.t.L("type")?$.t.p(0,"type"):"",o=p.leng
 if(!o){if(p==="sample"){t=$.bx
 t=t.gJ(t)
 if(1>=t.length)return H.f(t,1)
-J.cE(t[1].a,!0)}if(p==="cookbook"){t=$.bx
+J.cE(t[1].a,!0)}if(p==="freeui"){t=$.bx
 t=t.gJ(t)
 if(2>=t.length)return H.f(t,2)
 J.cE(t[2].a,!0)}}s=$.t.L(q)?$.t.p(0,q):""
 t=s.length===0
-if(!t)if(s==="web"){r=$.bx
+if(!t)if(s==="preminum"){r=$.bx
 r=r.gJ(r)
 if(3>=r.length)return H.f(r,3)
 J.cE(r[3].a,!0)}if(t&&o){o=$.bx
@@ -2494,9 +2494,9 @@ jQ:function(a){var t
 switch(a){case 1:t=u.N
 return P.eM(["type","sample"],t,t)
 case 2:t=u.N
-return P.eM(["type","cookbook"],t,t)
+return P.eM(["type","freeui"],t,t)
 case 3:t=u.N
-return P.eM(["platform","web"],t,t)
+return P.eM(["platform","preminum"],t,t)
 case 0:default:t=u.N
 return P.eL(t,t)}},
 ew:function ew(){},

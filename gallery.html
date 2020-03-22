@@ -5,6 +5,8 @@
   <title>Flutter samples</title>
   <link href="styles.css" rel="stylesheet" media="screen">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Google+Sans+Display|Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="packages/mdc_web/material-components-web.min.js"></script>
   <script defer src="description.dart.js"></script>
 </head>
@@ -16,56 +18,75 @@
         <img src="images/logos/flutter9.png" />
       </a>
       <div class="nav-items">
-        <a href="https://flutter.dev/">Flutter Home</a>
-        <a href="https://api.flutter.dev/">API Docs</a>
+        <a href="https://flutter9.com" class='active'>Home</a>
+        <a href="https://blog.flutter9.com">Blog</a>
+        <a href="https://flutter9.com/services">Services</a>
+        <a href="https://flutter9.com/about">About</a>
       </div>
     </div>
     <div class="container">
-      <div class="description-title-row">
-        <h1>Gallery</h1>
-        <div class="type-label type-label-bordered">demo</div>
-      </div>
-      <p>By Flutter</p>
+
       <div class="toolbar">
-        <div class="buttons">
-          <button class="mdc-button mdc-button--outlined" onclick="window.location.href = 'https://flutter.github.io/gallery';"><span class="mdc-button__ripple"></span> Launch App</button><button class="mdc-button mdc-button--outlined" onclick="window.location.href = 'https://github.com/flutter/gallery';">
-      <div class="mdc-button__ripple"></div>
-      <i class="material-icons mdc-button__icon" aria-hidden="true">code</i>
-      <span class="mdc-button__label">Source Code</span>
-      </button>
-        </div>
-        <div class="tags-container">
-          <div class="tags-label">
-            <i class="material-icons">local_offer</i>
-            <span>Tags</span>
+        <div>
+          <div class="description-title-row">
+            <h1>Gallery</h1>
+            <div class="type-label type-label-bordered">demo</div>
           </div>
-          <div class="tags">
-            <a href="./#?search=tag%3Aintermediate">intermediate</a>
+          <div class="description-author">
+          <p>By Flutter</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="toolbar space_demo">
+          <div class="demo-container"><iframe width="375px" height="812px" src="https://flutter.github.io/gallery"></iframe></div>
+          
+
+
+          <div>
+            <div class="tags-container">
+              <div class="tags-label">
+                <i class="material-icons">local_offer</i>
+                <span>Tags</span>
+              </div>
+              <div class="tags">
+                <a href="./#?search=tag%3Aintermediate">intermediate</a>
         <a href="./#?search=tag%3Asample">sample</a>
         <a href="./#?search=tag%3Agallery">gallery</a>
         <a href="./#?search=tag%3Amaterial">material</a>
         <a href="./#?search=tag%3Adesign">design</a>
         <a href="./#?search=tag%3Avignettes">vignettes</a>
-          </div>
-        </div>
-      </div>
-      <div class="screenshots">
-        <img src="images/gallery1.png" alt="Gallery app screenshot" />
-    <img src="images/gallery2.png" alt="Rally app screenshot" />
-    <img src="images/gallery3.png" alt="Fortnightly app screenshot" />
-    <img src="images/gallery4.png" alt="Crane app screenshot" />
-    <img src="images/gallery5.png" alt="Shrine app screnshot" />
-      </div>
-      <div class="description">
-        <p>A collection of material design widgets, behaviors, and vignettes implemented with Flutter.
+              </div>
+            </div>      
+            <div class="description">
+            
+              <div class="tags-label">
+                <i class="material-icons">bubble_chart</i>
+                <span>FEATURES</span>
+              </div>
+
+              <p>
+                <p>A collection of material design widgets, behaviors, and vignettes implemented with Flutter.
     </p>
+              </p>
+
+              <div class="buttons">
+                <button class="mdc-button mdc-button--outlined button-run" onclick="window.location.href = 'https://flutter.github.io/gallery';"><span class="mdc-button__ripple"></span> Launch App</button><button class="mdc-button mdc-button--outlined" onclick="window.location.href = 'https://github.com/flutter/gallery';">
+      <div class="mdc-button__ripple"></div>
+      <i class="material-icons mdc-button__icon" aria-hidden="true">code</i>
+      <span class="mdc-button__label">Source Code</span>
+      </button>
+              </div>
+            </div>
+          </div>
+
       </div>
     </div>
   </div>
 </body>
 
 <div class="footer">
-  <span>© Flutter 2020</span>
+  <a href="https://inspireui.com"><span>© InspireUI Ltd 2020</span></a>
 </div>
 
 </html>
