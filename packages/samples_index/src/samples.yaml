@@ -53,6 +53,56 @@ samples:
     type: preminum
     web: http://web.fluxstore.app/
 
+  - name: Best Flutter UI Templates
+    author: theindianappguy
+    screenshots:
+      - url: images/app/fitness_app.png
+        alt: App screenshot
+      - url: images/app/hotel_booking.png
+        alt: App screenshot
+      - url: images/app/design_course.png
+        alt: App screenshot
+    source: https://github.com/mitesh77/Best-Flutter-UI-Templates
+    web: https://flutter9.github.io/Best-Flutter-UI-Templates
+    description: >
+      completely free for everyone. Its build-in Flutter Dart
+    widgets: []
+    packages: []
+    tags: ['sample', 'material', 'design', 'template']
+    platforms: ['web', 'ios', 'android']
+    type: sample
+
+  - name: Doctor Booking App
+    author: theindianappguy
+    screenshots:
+      - url: images/app/bookingapp.png
+        alt: App screenshot
+    source: https://github.com/theindianappguy/doctor_booking_app
+    web: https://flutter9.github.io/doctor_booking_app
+    description: >
+      Doctor Booking App UI made with Flutter, Hosted on Codemagic. Don't forget to star ⭐ the repo it motivates me to share more open source
+    widgets: []
+    packages: []
+    tags: ['sample', 'material', 'design']
+    platforms: ['web', 'ios', 'android']
+    type: sample
+
+  - name: Flutter Ecommerce App
+    author: theindianappguy
+    screenshots:
+      - url: images/app/flutter_ecom_app.png
+        alt: App screenshot
+    source: https://github.com/theindianappguy/flutterecomapp
+    web: https://flutter9.github.io/flutterecomapp
+    description: >
+      Recommend Me On LinkedIn - I will realy Appriciate this
+      Don't forget to star ⭐ the repo 😉, it's FREE.
+    widgets: []
+    packages: []
+    tags: ['sample', 'material', 'design']
+    platforms: ['web', 'ios', 'android']
+    type: sample
+
   - name: Event App
     author: Flutter
     screenshots:
@@ -78,56 +128,114 @@ samples:
     type: sample
     web: https://flutter9.github.io/web/uvento/
 
-  - name: Animations
-    author: Flutter
+  - name: Flutter Story App UI
+    author: devefy
     screenshots:
       - url: images/app/preview.png
-        alt: Animations sample screenshot
-      - url: images/misc/animations2.png
-        alt: Animations sample screenshot
-      - url: images/misc/animations3.png
-        alt: Animations sample screenshot
-    source: https://github.com/flutter/samples/tree/master/animations
+        alt: App screenshot
+    source: https://github.com/devefy/Flutter-Story-App-UI
+    web: https://flutter9.github.io/Flutter-Story-App-UI
     description: >
-      Sample apps that showcasing Flutter's animation features.
+      This project is a starting point for a Flutter application.
+      A few resources to get you started if this is your first Flutter project:
+      - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+      - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+      For help getting started with Flutter, view our 
+      [online documentation](https://flutter.io/docs), which offers tutorials, 
+      samples, guidance on mobile development, and a full API reference.
     difficulty: advanced
-    widgets:
-      - AnimatedContainer
-      - PageRouteBuilder
-      - AnimationController
-      - SingleTickerProviderStateMixin
-      - Tween
-      - AnimatedBuilder
-      - TweenSequence
-      - TweenSequenceItem
+    widgets: []
     packages:
       - flutter/material
-    tags: ['intermediate', 'sample', 'animation']
+    tags: ['sample', 'freeui']
     platforms: ['ios', 'android', 'web']
-    type: freeui
-    web: web/animations
+    type: sample
 
-  - name: Flutter Maps Firestore
-    author: Flutter
+  - name: Flutter Streamimg Service App
+    author: devefy
     screenshots:
       - url: images/app/streaming.png
-        alt: Flutter maps firestore screenshot
-      - url: images/misc/flutter_maps_firestore2.png
-        alt: Flutter maps firestore screenshot
-    source: https://github.com/flutter/samples/tree/master/flutter_maps_firestore
+        alt: App screenshot
+    source: https://github.com/devefy/Flutter-Streaming-Service-App-UI
+    web: https://flutter9.github.io/Flutter-Streaming-Service-App-UI
     description: >
-      A Flutter sample app that shows the end product of the Cloud Next '19 talk
-      Build Mobile Apps With Flutter and Google Maps.
+      Watch the Video on Youtube - Youtube Video
+
+      Also Don't Forget to Subscribe My youtube Channel - Youtube Channel
+
+      Check out our premium themes - Flutter Source Code
+
+      Found this project useful?
+      If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
     difficulty: advanced
-    widgets:
-      - GoogleMap
-    packages:
-      - flutter/material
-      - cloud_firestore
-      - google_maps_flutter
-      - google_maps_webservice
-    tags: ['intermediate', 'sample', 'firebase', 'maps']
-    platforms: ['ios', 'android']
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Flutter Streaming Service App
+    author: devefy
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/devefy/Flutter-Furniture-App-UI
+    web: https://flutter9.github.io/Flutter-Furniture-App-UI
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Flutter Travel UI
+    author: MarcusNg
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/MarcusNg/flutter_travel_ui
+    web: https://flutter9.github.io/flutter_travel_ui
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+  - name: Flutter Adidas Shoes Ecommerce
+    author: devefy
+    screenshots:
+      - url: images/app/flutter_adidas_shoes.jpg
+        alt: App screenshot
+    source: https://github.com/devefy/Flutter-Adidas-Shoes-Ecommerce-App-UI
+    web: https://flutter9.github.io/Flutter-Adidas-Shoes-Ecommerce-App-UI
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Flutter Chat UI
+    author: MarcusNg
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/MarcusNg/flutter_chat_ui
+    web: https://flutter9.github.io/flutter_chat_ui
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
     type: sample
 
   - name: jsonexample

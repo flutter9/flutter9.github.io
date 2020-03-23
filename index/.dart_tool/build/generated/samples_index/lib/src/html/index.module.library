@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["samples_index|lib/src/data.dart","samples_index|lib/src/util.dart","samples_index|lib/src/html/menu.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["webdriver|lib/src/async/web_element.dart","webdriver|lib/src/common/mouse.dart","webdriver|lib/src/common/request_client.dart","webdriver|lib/src/common/webdriver_handler.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

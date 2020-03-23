@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["json_annotation|lib/json_annotation.dart","samples_index|lib/src/util.dart"],"parts":["samples_index|lib/src/data.g.dart"],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

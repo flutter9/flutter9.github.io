@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["webdriver|lib/src/common/request_client.dart","webdriver|lib/src/common/webdriver_handler.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

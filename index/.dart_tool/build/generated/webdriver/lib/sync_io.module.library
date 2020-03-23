@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["webdriver|lib/src/request/sync_http_request_client.dart","webdriver|lib/sync_core.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

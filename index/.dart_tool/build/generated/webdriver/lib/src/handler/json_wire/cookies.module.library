@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["webdriver|lib/src/common/cookie.dart","webdriver|lib/src/common/exception.dart","webdriver|lib/src/common/request.dart","webdriver|lib/src/common/webdriver_handler.dart","webdriver|lib/src/handler/json_wire/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

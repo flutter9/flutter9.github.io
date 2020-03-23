@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["stack_trace|lib/stack_trace.dart","typed_data|lib/typed_data.dart","test_api|lib/src/utils.dart","test_core|lib/src/runner/application_exception.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","io"],"hasMain":false}
