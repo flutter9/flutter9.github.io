@@ -9,15 +9,29 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="packages/mdc_web/material-components-web.min.js"></script>
   <script defer src="description.dart.js"></script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161701313-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
 
-    gtag('config', 'UA-161701313-1');
-  </script>
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBnHYxbkflh-d8gCRgKP1r2A9saX08pi_0",
+    authDomain: "flutter9-a1d23.firebaseapp.com",
+    databaseURL: "https://flutter9-a1d23.firebaseio.com",
+    projectId: "flutter9-a1d23",
+    storageBucket: "flutter9-a1d23.appspot.com",
+    messagingSenderId: "534483323598",
+    appId: "1:534483323598:web:f89447aa2bb3dcad8f9e9f",
+    measurementId: "G-6DDF2LK8S3"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
 </head>
 
 <body>
