@@ -71,6 +71,13 @@ samples:
     tags: ['sample', 'material', 'design', 'template']
     platforms: ['web', 'ios', 'android']
     type: sample
+    references:
+      - url: https://inspireui.com/products/fluxstore-pro
+        name: 'Documents'
+        icon: 'images/logos/logo_flutter_96px_clr.png'
+      - url: https://inspireui.com/products/fluxstore-pro
+        name: 'Appstore'
+        icon: 'images/logos/logo_flutter_96px_clr.png'
 
   - name: Doctor Booking App
     author: theindianappguy
@@ -229,6 +236,118 @@ samples:
         alt: App screenshot
     source: https://github.com/MarcusNg/flutter_chat_ui
     web: https://flutter9.github.io/flutter_chat_ui
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Bill Payments
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/Bill-Payments-Screen-UI
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Flight App Screens UI
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/Flight-App-Screens-UI
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Furniture Screens UI
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/Furniture-Screens-UI
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Login Screens UI
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/Login-Screens-UI
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Pet Adoption UI
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/pet_adoption_ui
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Profile Screen
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/profile_screen
+    description: >
+      For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['material', 'sample', 'freeui']
+    platforms: ['ios', 'android', 'web']
+    type: sample
+
+  - name: Travel Screen UI
+    author: mohak1283
+    screenshots:
+      - url: images/app/furniture.png
+        alt: App screenshot
+    source: https://github.com/mohak1283/Flutter-UIs-Collection
+    web: https://flutter9.github.io/Travel-Screens-UI
     description: >
       For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
     difficulty: advanced
