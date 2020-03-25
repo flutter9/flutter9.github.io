@@ -1,0 +1,107 @@
+{
+  "Background": {
+    "scroll": true,
+    "height": 0.35,
+    "image": "assets/images/categories/yelp.jpg"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "hideLogo": true
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 23.0,
+      "height": 0.20,
+      "padding": 30.0,
+      "title": "",
+      "type": "static"
+    },
+    {
+      "layout": "header_search",
+      "radius": 6.0,
+      "text": {
+        "en": "Search for a product",
+        "ab": "بلوق وظائف",
+        "vi": "Tìm kiếm"
+      }
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "size": 1.2,
+      "radius": 50.0,
+      "columns": 3,
+      "padding": 5.0,
+      "items": [
+        {
+          "category": 29,
+          "image": "assets/icons/categories/yp_build.png"
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/yp_eat.png"
+        },
+        {
+          "category": 34,
+          "image": "assets/icons/categories/yp_event.png"
+        },
+        {
+          "category": 37,
+          "image": "assets/icons/categories/yp_fitness.png"
+        },
+        {
+          "category": 35,
+          "image": "assets/icons/categories/yp_other.png"
+        },
+        {
+          "category": 33,
+          "image": "assets/icons/categories/yp_service.png"
+        }
+      ]
+    },
+    {
+      "name": "Most Visited Places",
+      "layout": "threeColumn",
+      "category": 29
+    },
+    {
+      "name": "Eat and Drink",
+      "layout": "threeColumn",
+      "category": 19
+    },
+    {
+      "name": "Services",
+      "layout": "threeColumn",
+      "category": 33
+    },
+    {
+      "name": "Event",
+      "layout": "threeColumn",
+      "category": 34
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png"
+    }
+  ]
+}

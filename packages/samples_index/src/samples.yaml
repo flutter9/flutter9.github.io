@@ -31,7 +31,7 @@ samples:
     type: demo
 
   - name: FluxStore Pro
-    author: Flutter
+    author: InspireUI
     screenshots:
       - url: images/app/furniture.png
         alt: Add_to_app screenshot
@@ -52,6 +52,66 @@ samples:
     platforms: ['ios', 'android']
     type: preminum
     web: http://web.fluxstore.app/
+
+  - name: FluxStore Multi Vendor
+    author: InspireUI
+    screenshots:
+      - url: images/app/furniture.png
+        alt: Add_to_app screenshot
+    web: /inspireui_lock/fluxstore_vendor/index.html
+    description: >
+      Android and iOS projects that each import a standalone Flutter module.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['advanced', 'sample', 'android', 'ios', 'vendor']
+    platforms: ['ios', 'android']
+    type: preminum
+
+  - name: Fluxnews App
+    author: InspireUI
+    screenshots:
+      - url: images/app/furniture.png
+        alt: Add_to_app screenshot
+    web: '/inspireui_lock/fluxnews/index.html'
+    description: >
+      Android and iOS projects that each import a standalone Flutter module.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['advanced', 'sample', 'android', 'ios', 'news']
+    platforms: ['ios', 'android']
+    type: preminum
+
+  - name: Fluxlisting App
+    author: InspireUI
+    screenshots:
+      - url: images/app/furniture.png
+        alt: Add_to_app screenshot
+    web: /inspireui_lock/fluxlisting/index.html
+    description: >
+      Android and iOS projects that each import a standalone Flutter module.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['advanced', 'sample', 'android', 'ios', 'liteo']
+    platforms: ['ios', 'android']
+    type: preminum
+
+  - name: Fluxlisting App for Yelp
+    author: InspireUI
+    screenshots:
+      - url: images/app/furniture.png
+        alt: Add_to_app screenshot
+    web: /inspireui_lock/fluxlisting_yelp/index.html
+    description: >
+      Android and iOS projects that each import a standalone Flutter module.
+    difficulty: advanced
+    widgets: []
+    packages: []
+    tags: ['advanced', 'sample', 'android', 'ios', 'listeo', 'yelp']
+    platforms: ['ios', 'android']
+    type: preminum
 
   - name: Flutter Chat UI
     author: MarcusNg
