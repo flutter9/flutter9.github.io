@@ -1,0 +1,82 @@
+[
+    {
+        "id": 2,
+        "name": "color",
+        "slug": "pa_color",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes\/2"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Height",
+        "slug": "pa_height",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes\/5"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 1,
+        "name": "size",
+        "slug": "pa_size",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes\/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Width",
+        "slug": "pa_width",
+        "type": "select",
+        "order_by": "menu_order",
+        "has_archives": false,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes\/3"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/mstore.io\/wp-json\/wc\/v2\/products\/attributes"
+                }
+            ]
+        }
+    }
+]

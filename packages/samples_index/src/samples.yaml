@@ -51,14 +51,14 @@ samples:
     tags: ['advanced', 'sample', 'add-to-app', 'android', 'ios', 'native', 'embedding']
     platforms: ['ios', 'android']
     type: preminum
-    web: http://web.fluxstore.app/
+    web: /inspireui_app/fluxstore/index.html
 
   - name: FluxStore Multi Vendor
     author: InspireUI
     screenshots:
       - url: images/app/furniture.png
         alt: Add_to_app screenshot
-    web: /inspireui_lock/fluxstore_vendor/index.html
+    web: /inspireui_app/fluxstore_vendor/index.html
     description: >
       Android and iOS projects that each import a standalone Flutter module.
     difficulty: advanced
@@ -73,7 +73,7 @@ samples:
     screenshots:
       - url: images/app/furniture.png
         alt: Add_to_app screenshot
-    web: '/inspireui_lock/fluxnews/index.html'
+    web: '/inspireui_app/fluxnews/index.html'
     description: >
       Android and iOS projects that each import a standalone Flutter module.
     difficulty: advanced
@@ -88,7 +88,7 @@ samples:
     screenshots:
       - url: images/app/furniture.png
         alt: Add_to_app screenshot
-    web: /inspireui_lock/fluxlisting/index.html
+    web: /inspireui_app/fluxlisting/index.html
     description: >
       Android and iOS projects that each import a standalone Flutter module.
     difficulty: advanced
@@ -103,7 +103,7 @@ samples:
     screenshots:
       - url: images/app/furniture.png
         alt: Add_to_app screenshot
-    web: /inspireui_lock/fluxlisting_yelp/index.html
+    web: /inspireui_app/fluxlisting_yelp/index.html
     description: >
       Android and iOS projects that each import a standalone Flutter module.
     difficulty: advanced
