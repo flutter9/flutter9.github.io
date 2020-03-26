@@ -2,7 +2,7 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/index.html": "5bdc35919b1e2cdd2dd3799c9fc8d75c",
-"/main.dart.js": "0ece98076a8ed837c7f8970cadeadd13",
+"/main.dart.js": "41be98cf87f81f355c8ade07e4b06576",
 "/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -533,7 +533,7 @@ const RESOURCES = {
 "/assets/packages/international_phone_input/assets/flags/vu.png": "3f201fdfb6d669a64c35c20a801016d1",
 "/assets/packages/international_phone_input/assets/flags/tj.png": "c73b793f2acd262e71b9236e64c77636",
 "/assets/packages/international_phone_input/assets/countries.json": "f08cb48768db66d1698fb0bf715d1e17",
-"/assets/lib/common/config.json": "e69b28c2392f7f3881c536dedf32f2e0",
+"/assets/lib/common/config.json": "5e33cffe30b88b85191ea9e847698ffb",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets/assets/images/fogg-uploading-1.png": "36d1c60532e0fa8e16a78d8ab696dc7e",
 "/assets/assets/images/empty_wishlist.png": "926f7bc58b62c8080ffe0a7420b3f35c",
