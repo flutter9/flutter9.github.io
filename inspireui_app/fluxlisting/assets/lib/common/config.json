@@ -1,86 +1,107 @@
 {
-  "Background": {
-    "scroll": true,
-    "height": 0.35,
-    "image": "assets/images/categories/yelp.jpg"
-  },
   "HorizonLayout": [
     {
       "layout": "logo",
       "hideLogo": true
     },
     {
-      "layout": "header_text",
-      "fontSize": 23.0,
-      "height": 0.20,
-      "padding": 30.0,
-      "title": "",
-      "type": "static"
-    },
-    {
       "layout": "header_search",
       "radius": 6.0,
       "text": {
         "en": "Search for a product",
-        "ab": "بلوق وظائف",
+        "ar": "بلوق وظائف",
         "vi": "Tìm kiếm"
       }
     },
+
+    {
+      "layout": "header_text",
+      "fontSize": 20.0,
+      "padding": 20.0,
+      "title": "What can we help you find?"
+    },
+
     {
       "layout": "category",
-      "type": "icon",
-      "size": 1.2,
+      "type": "image",
+      "size": 1.0,
       "radius": 50.0,
-      "columns": 3,
-      "padding": 5.0,
       "items": [
         {
           "category": 29,
-          "image": "assets/icons/categories/yp_build.png"
-        },
-        {
-          "category": 19,
-          "image": "assets/icons/categories/yp_eat.png"
-        },
-        {
-          "category": 34,
-          "image": "assets/icons/categories/yp_event.png"
+          "showText": true,
+          "name": "Apartments",
+          "image": ""
         },
         {
           "category": 37,
-          "image": "assets/icons/categories/yp_fitness.png"
+          "showText": true,
+          "name": "Fitness",
+          "image": ""
         },
         {
-          "category": 35,
-          "image": "assets/icons/categories/yp_other.png"
+          "category": 34,
+          "showText": true,
+          "name": "Events",
+          "image": ""
+        },
+        {
+          "category": 19,
+          "showText": true,
+          "name": "Eat & Drink",
+          "image": ""
         },
         {
           "category": 33,
-          "image": "assets/icons/categories/yp_service.png"
+          "showText": true,
+          "name": "Services",
+          "image": ""
+        },
+        {
+          "category": 35,
+          "showText": true,
+          "name": "Other",
+          "image": ""
         }
       ]
     },
     {
-      "name": "Most Visited Places",
-      "layout": "threeColumn",
-      "category": 29
-    },
-    {
-      "name": "Eat and Drink",
-      "layout": "threeColumn",
-      "category": 19
-    },
-    {
-      "name": "Services",
-      "layout": "threeColumn",
-      "category": 33
-    },
-    {
-      "name": "Event",
-      "layout": "threeColumn",
+      "name": "Coming Events",
+      "layout": "twoColumn",
       "category": 34
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 10.0,
+      "height": 0.5,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1100x1292/7beb8a56f7db49bc0e147ec5040deb50/travel2.jpg",
+          "padding": 20.0
+        },
+        {
+          "category": 37,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1100x1292/19369c86e6873fc2493da1e397fa6e27/travel3.jpg",
+          "padding": 20.0
+        },
+        {
+          "category": 34,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1160x1362/4a1f8758322c3f5dc862c5bf7a9c5af3/travel5.jpg",
+          "padding": 20.0
+        }
+      ]
     }
   ],
+  "VerticalLayout": {
+    "name": "Explore more",
+    "layout" : "menu"
+  },
   "Setting": {
     "MainColor": "#3FC1BE",
     "ProductListLayout": "list"

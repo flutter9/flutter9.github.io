@@ -533,7 +533,7 @@ const RESOURCES = {
 "/assets/packages/international_phone_input/assets/flags/vu.png": "3f201fdfb6d669a64c35c20a801016d1",
 "/assets/packages/international_phone_input/assets/flags/tj.png": "c73b793f2acd262e71b9236e64c77636",
 "/assets/packages/international_phone_input/assets/countries.json": "f08cb48768db66d1698fb0bf715d1e17",
-"/assets/lib/common/config.json": "5e33cffe30b88b85191ea9e847698ffb",
+"/assets/lib/common/config.json": "e69b28c2392f7f3881c536dedf32f2e0",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets/assets/images/fogg-uploading-1.png": "36d1c60532e0fa8e16a78d8ab696dc7e",
 "/assets/assets/images/empty_wishlist.png": "926f7bc58b62c8080ffe0a7420b3f35c",
