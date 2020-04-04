@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Flutter samples</title>
+  <link href="styles.css" rel="stylesheet" media="screen">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script defer src="description.dart.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script>
+      $.get("https://api.github.com/repos/afgprogrammer/Flutter-page-transition-animation", function(data, status){
+      $("#infor").html(function(){
+            var d = new Date();
+            var n = d.toLocaleTimeString();
+            var m = d.toLocaleDateString();
+            return "<div>"
+              + "<p><b>Title: &nbsp;</b>" + data.description + "</p>" 
+              + "<p><b>User: &nbsp;</b>" + data.owner.login + "</p>"
+              + "<p><b>Reponsitory: &nbsp;</b>" + data.name + "</p>"
+              + "<p><b>Last commit: &nbsp;</b>" + m + "&ensp;" + n +"</p>"
+              + "<div>"
+                  + "<img src='images/star-solid.svg' width='18px' height='18px' style='margin-right: 2px'/>"
+                  + "Star: " + data.stargazers_count
+                  + "<img src='images/code-branch-solid.svg' width='18px' height='18px' style='margin-right: 2px; margin-left: 15px'/>"
+                  + "Fork: " + data.forks_count
+                  + "<img src='images/eye-solid.svg' width='18px' height='18px' style='margin-right: 2px; margin-left: 15px'/>"
+                  + "Watch: " + data.watchers
+                  + "</div>" +
+            "</div>";
+          });
+        });
+    </script>
+  
+      <script src="packages/mdc_web/material-components-web.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Google+Sans+Display|Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
+
+
+  <!-- Google Ads -->  
+  <script data-ad-client="ca-pub-2101182411274198" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-analytics.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyBnHYxbkflh-d8gCRgKP1r2A9saX08pi_0",
+      authDomain: "flutter9-a1d23.firebaseapp.com",
+      databaseURL: "https://flutter9-a1d23.firebaseio.com",
+      projectId: "flutter9-a1d23",
+      storageBucket: "flutter9-a1d23.appspot.com",
+      messagingSenderId: "534483323598",
+      appId: "1:534483323598:web:f89447aa2bb3dcad8f9e9f",
+      measurementId: "G-6DDF2LK8S3"
+    };
+  
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+
+  //Tido chat
+  <script src="//code.tidio.co/z4wdl33oluwlanjqdvkhvi1vf88doc7o.js" async></script>
+
+</head>
+
+<body>
+  <div class="content">
+    <div class="navbar">
+      <a class="leading" href="./">
+        <img src="images/logos/flutter9.png" />
+      </a>
+    </div>
+    <div class="container">
+
+      <div class="toolbar">
+        <div>
+          <div class="description-title-row">
+            <h1>Flutter Page-Transition Animation and UI Design</h1>
+            <div class="type-label type-label-bordered">sample</div>
+          </div>
+          <div class="description-author">
+          <p>By GR Develop</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="toolbar space_demo">
+          <div class="demo-container"><iframe width="375px" height="812px" src="https://flutter9.github.io/Flutter-page-transition-animation"></iframe></div>
+          
+
+
+          <div>
+            <div class="tags-container">
+              <div class="tags-label">
+                <i class="material-icons">local_offer</i>
+                <span>Tags</span>
+              </div>
+              <div class="tags">
+                <a href="./#?search=tag%3Aadvanced">advanced</a>
+        <a href="./#?search=tag%3Asample">sample</a>
+        <a href="./#?search=tag%3Afreeui">freeui</a>
+        <a href="./#?search=tag%3Apage transition">page transition</a>
+        <a href="./#?search=tag%3Aanimation">animation</a>
+        <a href="./#?search=tag%3Adesign">design</a>
+        <a href="./#?search=tag%3Aios">ios</a>
+        <a href="./#?search=tag%3Aweb">web</a>
+        <a href="./#?search=tag%3Aandroid">android</a>
+              </div>
+            </div>      
+            <div class="description">
+            
+              <div class="tags-label">
+                <i class="material-icons">bubble_chart</i>
+                <span>FEATURES</span>
+              </div>
+
+              <p>
+                <p>Flutter Page Transition Animation, Application UI/UX design - day 6 Flutter Animation and UI Design.
+    
+    This repository is a part of the 100-day design in Flutter.
+    
+    In this video we use, Flutter Animation, AnimationController, Transition, Ripple, ListView, Transition, LinearGradient and so on in the one-speed video.</p>
+              </p>
+              
+              <div id="infor"></div>
+
+              <div class="buttons">
+                <button class="mdc-button mdc-button--outlined button-run" onclick="window.location.href = 'https://flutter9.github.io/Flutter-page-transition-animation';"><span class="mdc-button__ripple"></span> Launch App</button><button class="mdc-button mdc-button--outlined" onclick="window.location.href = 'https://github.com/afgprogrammer/Flutter-page-transition-animation';">
+      <div class="mdc-button__ripple"></div>
+      <i class="material-icons mdc-button__icon" aria-hidden="true">code</i>
+      <span class="mdc-button__label">Source Code</span>
+      </button>
+              </div>
+            </div>
+            
+
+              <amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-2101182411274198"
+     data-ad-slot="1549098544"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+  
+          </div>
+
+      </div>
+    </div>
+  </div>
+</body>
+
+<div class="footer">
+    <div class='footer-content'>
+      <div class="col-ls-5 footer-logo">
+      <img src="images/logos/flutter9.png" alt="InspireUI" style="margin-top: 40px" height="140" />
+    </div>
+    <div class="col-ls-5">
+      <div class="footer-tx">INSPIREUI</div>
+      <p><a href='https://fluter9.com'>Home</a></p>
+      <p><a target="_blank" href='https://apps.apple.com/us/developer/inspireui-company-limited/id1192736196#see-all/i-phonei-pad-apps'>Appstore</a></p>
+      <p><a target="_blank" href='https://play.google.com/store/apps/developer?id=InspireUI'>Google Play</a></p>
+      <p><a target="_blank" target= href='https://fluxbuilder.com'>Download Flutter Builder</a></p>
+    </div>
+    <div class="col-ls-5">
+      <div class="footer-tx">COMPANY</div>    
+      <p>InspireUI</p>      
+      <p>+84989908854</p>
+      <p><a href="mailto: hi@inspireui.com">hi@inspireui.com</a></p>
+      <p><a target="_blank" href="https://inspireui.com"> inspireui.com </a></p>  
+    </div>
+    <div class="col-ls-5">
+      <div class="footer-tx">OFFICE</div>          
+      <p>SBI building</p>
+      <p>Quang Trung software park</p>
+      <p>Ho Chi Minh</p>
+      <p>Viet Nam</p>
+    </div>
+    <div class="col-ls-5">
+      <div class="footer-tx">COMMUNITY</div>       
+      <p><a href="">Medium Blog</a></p>
+      <a target="_blank" href="https://codecanyon.net/user/inspireui/portfolio"><img src="images/envato.png" width="36px" height="auto"/></a>
+      <a target="_blank" href="https://www.facebook.com/inspireUI"><img src="images/facebook.png" width="36px" height="auto"/></a>
+      <a target="_blank" href="https://twitter.com/inspireui"><img src="images/twitter.png" width="36px" height="auto"/></a>
+      <a target="_blank" href="http://youtube.com/inspireui"><img src="images/youtube.png" width="36px" height="auto"/></a>
+    </div>
+    </div>
+    <div class="footer-cpy">
+      <a target="_blank" href="https://inspireui.com"><h6>© InspireUI Ltd 2020</h6></a>
+      <a target="_blank" href="https://inspireui.com/term-of-service/"><span> Term </span></a>
+      <a target="_blank" href="https://inspireui.com/privacy"><span> Privacy </span></a>
+    </div>
+</div>
+
+</html>

@@ -6,7 +6,8 @@
   <link href="styles.css" rel="stylesheet" media="screen">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script defer src="description.dart.js"></script>
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    
       <script src="packages/mdc_web/material-components-web.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Google+Sans+Display|Roboto:300,400,500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -59,7 +60,7 @@
         <div>
           <div class="description-title-row">
             <h1>Fluxlisting App for Yelp</h1>
-            <div class="type-label type-label-bordered">preminum</div>
+            <div class="type-label type-label-bordered">premium</div>
           </div>
           <div class="description-author">
           <p>By InspireUI</p>
@@ -80,11 +81,19 @@
               </div>
               <div class="tags">
                 <a href="./#?search=tag%3Aadvanced">advanced</a>
-        <a href="./#?search=tag%3Asample">sample</a>
+        <a href="./#?search=tag%3Apremium">premium</a>
         <a href="./#?search=tag%3Aandroid">android</a>
         <a href="./#?search=tag%3Aios">ios</a>
         <a href="./#?search=tag%3Alisteo">listeo</a>
         <a href="./#?search=tag%3Ayelp">yelp</a>
+        <a href="./#?search=tag%3Aanimation">animation</a>
+        <a href="./#?search=tag%3Adesign">design</a>
+        <a href="./#?search=tag%3Alogin">login</a>
+        <a href="./#?search=tag%3Asplash">splash</a>
+        <a href="./#?search=tag%3Aapi">api</a>
+        <a href="./#?search=tag%3Apayment">payment</a>
+        <a href="./#?search=tag%3Agallery">gallery</a>
+        <a href="./#?search=tag%3Amaterial">material</a>
               </div>
             </div>      
             <div class="description">
@@ -98,6 +107,8 @@
                 <p>Android and iOS projects that each import a standalone Flutter module.
     </p>
               </p>
+              
+              <div id="infor"></div>
 
               <div class="buttons">
                 <button class="mdc-button mdc-button--outlined button-run" onclick="window.location.href = '/inspireui_app/fluxlisting_yelp/index.html';"><span class="mdc-button__ripple"></span> Launch App</button>
@@ -122,23 +133,23 @@
 </body>
 
 <div class="footer">
-    <div style="height: 80%">
+    <div class='footer-content'>
       <div class="col-ls-5 footer-logo">
       <img src="images/logos/flutter9.png" alt="InspireUI" style="margin-top: 40px" height="140" />
     </div>
     <div class="col-ls-5">
       <div class="footer-tx">INSPIREUI</div>
-      <p><a href='/'>Home</a></p>
-      <p><a href='/'>Blog</a></p>
-      <p><a href='/'>Services</a></p>
-      <p><a href='/'>About</a></p>
+      <p><a href='https://fluter9.com'>Home</a></p>
+      <p><a target="_blank" href='https://apps.apple.com/us/developer/inspireui-company-limited/id1192736196#see-all/i-phonei-pad-apps'>Appstore</a></p>
+      <p><a target="_blank" href='https://play.google.com/store/apps/developer?id=InspireUI'>Google Play</a></p>
+      <p><a target="_blank" target= href='https://fluxbuilder.com'>Download Flutter Builder</a></p>
     </div>
     <div class="col-ls-5">
       <div class="footer-tx">COMPANY</div>    
       <p>InspireUI</p>      
       <p>+84989908854</p>
-      <p><a href = "mailto: support@inspireui.com">support@inspireui.com</a></p>
-      <p><a href = "https://inspireui.com"> inspireui.com </a></p>  
+      <p><a href="mailto: hi@inspireui.com">hi@inspireui.com</a></p>
+      <p><a target="_blank" href="https://inspireui.com"> inspireui.com </a></p>  
     </div>
     <div class="col-ls-5">
       <div class="footer-tx">OFFICE</div>          
@@ -149,16 +160,17 @@
     </div>
     <div class="col-ls-5">
       <div class="footer-tx">COMMUNITY</div>       
-      <p><a href="">Our Blog</a></p>
-      <a href="https://www.facebook.com/inspireUI"><img src="images/facebook.png" width="24px" height="24px"/></a>
-      <a href="https://www.facebook.com/inspireUI"><img src="images/twitter.png" width="24px" height="24px"/></a>
-      <a href="https://www.facebook.com/inspireUI"><img src="images/youtube.png" width="24px" height="24px"/></a>
+      <p><a href="">Medium Blog</a></p>
+      <a target="_blank" href="https://codecanyon.net/user/inspireui/portfolio"><img src="images/envato.png" width="36px" height="auto"/></a>
+      <a target="_blank" href="https://www.facebook.com/inspireUI"><img src="images/facebook.png" width="36px" height="auto"/></a>
+      <a target="_blank" href="https://twitter.com/inspireui"><img src="images/twitter.png" width="36px" height="auto"/></a>
+      <a target="_blank" href="http://youtube.com/inspireui"><img src="images/youtube.png" width="36px" height="auto"/></a>
     </div>
     </div>
     <div class="footer-cpy">
-      <a href="https://inspireui.com"><span>© InspireUI Ltd 2020</span></a>
-      <a href = "https://inspireui.com"><span> Support </span></a>
-      <a href = "https://inspireui.com/privacy"><span> Privacy </span></a>
+      <a target="_blank" href="https://inspireui.com"><h6>© InspireUI Ltd 2020</h6></a>
+      <a target="_blank" href="https://inspireui.com/term-of-service/"><span> Term </span></a>
+      <a target="_blank" href="https://inspireui.com/privacy"><span> Privacy </span></a>
     </div>
 </div>
 
